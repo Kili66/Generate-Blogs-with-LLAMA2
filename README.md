@@ -7,3 +7,4 @@ This application demonstrates a Blog Generation System powered by LLAMA2, featur
 ## Libraries Used
 * Streamlit: Used for building the interactive web-based user interface.
 * LangChain: Leveraging the power of LangChain's PrompTemplate and CTransformers to integrate LLAMA2 into the content generation process.
+![image](https://github.com/Kili66/Generate-Blogs-with-LLAMA2/assets/66678981/f89a8066-79cd-4932-af0e-94670d5c638e)
